@@ -1,11 +1,7 @@
 
 # Teach Together
 
-* ADD BEFORE SUBMITT!!!!
-- daniel linked in
-- link to heroku
-- link to slides
-- more features
+Here is a link to the deployed application: <https://teachtogether-ffa1db8adbe1.herokuapp.com/>
 
 ## Description
 
